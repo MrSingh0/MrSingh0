@@ -17,7 +17,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/priyam-kumar-51406424b" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG3_jlMqfdaI7hfLEz8L-JHBaSF2Lm8KAGrw&usqp=CAU" alt="priyam-kumar-51406424b" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mr singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mr singh" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mr singh" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png" alt="mr singh" height="30" width="40" /></a>
+<a href="https://www.codingninjas.com/studio/profile/fa0cd643-a40f-47f1-be99-5b88eac3227d" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4xnKMpHtlo5h0Ujfhk0evGTmGbcOeROhDOA&usqp=CAU" alt="Priyam Kumar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
