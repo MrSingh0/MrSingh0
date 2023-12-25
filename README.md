@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/priyam-kumar-51406424b" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBOp2tCSvlbfUn73UjMpnaZ7qAwSDBPCwylQ&usqp=CAU" alt="priyam-kumar-51406424b" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/priyam-kumar-51406424b" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG3_jlMqfdaI7hfLEz8L-JHBaSF2Lm8KAGrw&usqp=CAU" alt="priyam-kumar-51406424b" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mr singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mr singh" height="30" width="40" /></a>
 </p>
 
