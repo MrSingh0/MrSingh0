@@ -14,6 +14,8 @@
 
 - <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrsingh0" alt="mrsingh0" /></a> </p>
 
+![Commit Snake History SVG](https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake.svg)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/priyam-kumar-51406424b" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG3_jlMqfdaI7hfLEz8L-JHBaSF2Lm8KAGrw&usqp=CAU" alt="priyam-kumar-51406424b" height="30" width="40" /></a>
